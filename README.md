@@ -52,4 +52,4 @@ Full-Stack & Mobile Engineer specializing in high-concurrency cross-platform app
 
 ---
 
-*Open to Senior/Full-Stack Engineering roles and AI/mobile architecture opportunities.*
+*Open to Full-Stack Engineering roles and AI/mobile architecture opportunities.*
