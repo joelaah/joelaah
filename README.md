@@ -11,6 +11,18 @@ Full-Stack & AI Systems Engineer specializing in high-concurrency cross-platform
 
 ## ⚡ Featured Flagship Projects
 
+### 🕊️ [Grace & Growth – Contemplative Scripture Engine & Gospel Outreach](https://joelaah.github.io/grace-and-growth/)
+**[🌐 Live Web Sanctuary](https://joelaah.github.io/grace-and-growth/)** | **[💻 Source Code](https://github.com/joelaah/grace-and-growth)**
+
+*Distraction-free, responsive devotional engine and Scripture research system coupling vertical micro-content feeds with deterministic daily curation and Gospel distribution.*
+
+- **Dual Spiritual Theme Architecture**: Unified, eye-soothing *Sacred Scripture* (warm manuscript linen Light Mode) and *Sanctuary Twilight* (reverent indigo Dark Mode) eliminating jarring flash transitions across swipes and tab filtering.
+- **Micro-Feed & 60fps Gesture Physics**: Inshorts-style vertical swipe architecture featuring 3D Matrix parallax transforms, debounced mouse-wheel scrolling, and desktop keyboard shortcuts (Arrow/Space navigation).
+- **Interactive Scripture Research & Outreach**: Integrated study sheet surfacing canonical testament context, original language roots (Hebrew/Greek), and one-tap native cross-platform Gospel sharing (`share_plus`).
+- **Exhaustive Multi-Device Reliability**: 103 automated tests verifying layout invariants and constraints across 6 mobile/desktop viewports (ranging from 280px narrow foldables to 1080p desktop).
+
+---
+
 ### 🛡️ [ComplianceShield – Polyglot SAST Scanner & LangGraph Audit Engine](https://joelaah.github.io/compliance-checker/)
 **[🌐 Live Demo & Sandbox](https://joelaah.github.io/compliance-checker/)** | **[💻 Source Code](https://github.com/joelaah/compliance-checker)**
 
@@ -56,10 +68,10 @@ Full-Stack & AI Systems Engineer specializing in high-concurrency cross-platform
 ## 🛠️ Technical Arsenal
 
 - **Languages:** Python 3.12 (typing, AST, asyncio, ctypes), Dart, SQL (PostgreSQL), JavaScript/TypeScript
-- **Code Quality & Testing:** Pytest, Unittest, Static Code Analysis (SAST), AST Parsing, OWASP Top 10, CWE Auditing
+- **Code Quality & Testing:** Pytest, Flutter Widget & Golden Tests, Static Code Analysis (SAST), AST Parsing, OWASP Top 10, CWE Auditing
 - **AI, RAG & Vectors:** Qdrant Cloud HNSW, Supabase `pgvector`, Google Gemini, Cohere Rerank, FastEmbed, LangGraph
 - **Backend & Cloud:** FastAPI, Supabase (PostgreSQL, Triggers, RLS), Docker, RESTful APIs, SlowAPI Rate Limiting
-- **Frontend & Mobile:** Flutter (Web, iOS, Android), BLoC Pattern, Provider, CanvasKit, Responsive UI
+- **Frontend & Mobile:** Flutter (Web, iOS, Android), BLoC Pattern, Provider, CanvasKit, Responsive Viewport Adaptation
 - **Security & Cryptography:** Signal Protocol (X25519 ECDH + AES-256-GCM), HMAC-SHA256, Zero-Knowledge Storage
 
 ---
